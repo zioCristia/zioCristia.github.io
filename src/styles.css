@@ -172,6 +172,14 @@ p {
     /* clip-path: polygon(0 10vh,100% 0,100% 100%,0 100%); */
 }
 
+/* .section-contact-me {
+    background-color: #333;
+    clip-path: polygon(0 5vh,100% 0,100% 100%,0 100%);
+    color: white;
+    text-align: center;
+    padding: 80px;
+} */
+
 .container {
     max-width: 1140;
 }
@@ -317,6 +325,10 @@ a {
         font-size: 70px;
     }
 
+    h2 {
+        font-size: 30;
+    }
+
     h3 {
         font-size: 25px;
     }
@@ -345,7 +357,7 @@ a {
     .sub-section-alternative {
         padding: 0;
         padding-top: 80px;
-        padding-bottom: 120px;
+        padding-bottom: 60px;
     }
 
     .project-card {
@@ -353,6 +365,7 @@ a {
         height: auto;
         box-shadow: none;
         margin: 0;
+        padding-bottom: 60px;
     }
 
     footer {
@@ -365,7 +378,7 @@ a {
 }
 
 /* @media (max-width: 576px) {
-    .button: {
+    .button {
         display: none;
     }
 
@@ -379,4 +392,4 @@ a {
         /* box-shadow: 5px 5px 20px rgb(197, 195, 195); */
         /* margin: 10px; */
     }
-} */
+}  */
