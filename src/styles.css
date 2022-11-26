@@ -52,6 +52,7 @@ h2 {
 h3 {
     font-size: 30px;
 }
+
 h4 {
     color: #333;
     font-size: 25px;
@@ -151,6 +152,10 @@ p {
 
 .socials {
     padding-bottom: 200px;
+}
+.socials-footer {
+    display: flex;
+    padding-top: 8px;
 }
 
 .logo {
